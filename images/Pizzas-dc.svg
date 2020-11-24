@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="316px" preserveAspectRatio="none" style="width:496px;height:316px;" version="1.1" viewBox="0 0 496 316" width="496px" zoomAndPan="magnify"><defs><filter height="300%" id="fatt5t0vxbq9o" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[5c5a2dd8ed299478ae091ad6bda6d6bd]
+class Pizza--><rect codeLine="9" fill="#F0F8FF" filter="url(#fatt5t0vxbq9o)" height="164.5957" id="Pizza" rx="5" ry="5" style="stroke: #2F4F4F; stroke-width: 1.5;" width="127" x="243.5" y="7"/><ellipse cx="287.75" cy="23" fill="#A9DCDF" rx="11" ry="11" style="stroke: #2F4F4F; stroke-width: 1.0;"/><path d="M287.8633,18.5981 L286.7095,23.6699 L289.0254,23.6699 Z M286.3691,16.3569 L289.3657,16.3569 L292.7109,28.75 L290.2622,28.75 L289.4985,25.687 L286.2197,25.687 L285.4727,28.75 L283.0239,28.75 Z "/><text fill="#000000" font-family="Helvetica" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="30" x="308.25" y="26.2402">Pizza</text><line style="stroke: #2F4F4F; stroke-width: 1.5;" x1="244.5" x2="369.5" y1="39" y2="39"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="66" x="249.5" y="53.6348">~String nom</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="65" x="249.5" y="66.5898">~String pate</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="73" x="249.5" y="79.5449">~String sauce</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="115" x="249.5" y="92.5">~ArrayList garnitures</text><line style="stroke: #2F4F4F; stroke-width: 1.5;" x1="244.5" x2="369.5" y1="98.8203" y2="98.8203"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="88" x="249.5" y="113.4551">~void preparer()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="68" x="249.5" y="126.4102">~void cuire()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="79" x="249.5" y="139.3652">~void couper()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="87" x="249.5" y="152.3203">~void emballer()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="94" x="249.5" y="165.2754">+String getNom()</text><!--MD5=[30801e23f96fc0b5ef351d12a8883b87]
+class PizzaFromageStyleBrest--><rect codeLine="21" fill="#F0F8FF" filter="url(#fatt5t0vxbq9o)" height="52.9551" id="PizzaFromageStyleBrest" rx="5" ry="5" style="stroke: #2F4F4F; stroke-width: 1.5;" width="166" x="7" y="232"/><ellipse cx="22" cy="248" fill="#ADD1B2" rx="11" ry="11" style="stroke: #2F4F4F; stroke-width: 1.0;"/><path d="M24.4731,254.1431 Q23.8921,254.4419 23.2529,254.5913 Q22.6138,254.7407 21.9082,254.7407 Q19.4014,254.7407 18.0815,253.0889 Q16.7617,251.437 16.7617,248.3159 Q16.7617,245.1865 18.0815,243.5347 Q19.4014,241.8828 21.9082,241.8828 Q22.6138,241.8828 23.2612,242.0322 Q23.9087,242.1816 24.4731,242.4805 L24.4731,245.2031 Q23.8423,244.6221 23.2488,244.3523 Q22.6553,244.0825 22.0244,244.0825 Q20.6797,244.0825 19.9949,245.1492 Q19.3101,246.2158 19.3101,248.3159 Q19.3101,250.4077 19.9949,251.4744 Q20.6797,252.541 22.0244,252.541 Q22.6553,252.541 23.2488,252.2712 Q23.8423,252.0015 24.4731,251.4204 Z "/><text fill="#000000" font-family="Helvetica" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="134" x="36" y="251.2402">PizzaFromageStyleBrest</text><line style="stroke: #2F4F4F; stroke-width: 1.5;" x1="8" x2="172" y1="264" y2="264"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="143" x="13" y="278.6348">+PizzaFromageStyleBrest()</text><!--MD5=[c1311080bdd3a787af53b58ad3623e55]
+class PizzaFromageStyleStrasbourg--><rect codeLine="26" fill="#F0F8FF" filter="url(#fatt5t0vxbq9o)" height="52.9551" id="PizzaFromageStyleStrasbourg" rx="5" ry="5" style="stroke: #2F4F4F; stroke-width: 1.5;" width="198" x="208" y="232"/><ellipse cx="223" cy="248" fill="#ADD1B2" rx="11" ry="11" style="stroke: #2F4F4F; stroke-width: 1.0;"/><path d="M225.4731,254.1431 Q224.8921,254.4419 224.2529,254.5913 Q223.6138,254.7407 222.9082,254.7407 Q220.4014,254.7407 219.0815,253.0889 Q217.7617,251.437 217.7617,248.3159 Q217.7617,245.1865 219.0815,243.5347 Q220.4014,241.8828 222.9082,241.8828 Q223.6138,241.8828 224.2612,242.0322 Q224.9087,242.1816 225.4731,242.4805 L225.4731,245.2031 Q224.8423,244.6221 224.2488,244.3523 Q223.6553,244.0825 223.0244,244.0825 Q221.6797,244.0825 220.9949,245.1492 Q220.3101,246.2158 220.3101,248.3159 Q220.3101,250.4077 220.9949,251.4744 Q221.6797,252.541 223.0244,252.541 Q223.6553,252.541 224.2488,252.2712 Q224.8423,252.0015 225.4731,251.4204 Z "/><text fill="#000000" font-family="Helvetica" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="166" x="237" y="251.2402">PizzaFromageStyleStrasbourg</text><line style="stroke: #2F4F4F; stroke-width: 1.5;" x1="209" x2="405" y1="264" y2="264"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacingAndGlyphs" textLength="176" x="214" y="278.6348">+PizzaFromageStyleStrasbourg()</text><!--MD5=[8ff8237e612689832a9d65c75b6c813b]
+class PizzaFromageStyleCorse--><rect codeLine="31" fill="#F0F8FF" filter="url(#fatt5t0vxbq9o)" height="32" id="PizzaFromageStyleCorse" rx="5" ry="5" style="stroke: #2F4F4F; stroke-width: 1.5;" width="41" x="441.5" y="242.5"/><ellipse cx="456.5" cy="258.5" fill="#ADD1B2" rx="11" ry="11" style="stroke: #2F4F4F; stroke-width: 1.0;"/><path d="M458.9731,264.6431 Q458.3921,264.9419 457.7529,265.0913 Q457.1138,265.2407 456.4082,265.2407 Q453.9014,265.2407 452.5815,263.5889 Q451.2617,261.937 451.2617,258.8159 Q451.2617,255.6865 452.5815,254.0347 Q453.9014,252.3828 456.4082,252.3828 Q457.1138,252.3828 457.7612,252.5322 Q458.4087,252.6816 458.9731,252.9805 L458.9731,255.7031 Q458.3423,255.1221 457.7488,254.8523 Q457.1553,254.5825 456.5244,254.5825 Q455.1797,254.5825 454.4949,255.6492 Q453.8101,256.7158 453.8101,258.8159 Q453.8101,260.9077 454.4949,261.9744 Q455.1797,263.041 456.5244,263.041 Q457.1553,263.041 457.7488,262.7712 Q458.3423,262.5015 458.9731,261.9204 Z "/><text fill="#000000" font-family="Helvetica" font-size="12" lengthAdjust="spacingAndGlyphs" textLength="9" x="470.5" y="261.7402">...</text><!--MD5=[8ab672095f865b97b4229179ea30141b]
+reverse link Pizza to PizzaFromageStyleBrest--><path codeLine="24" d="M227.22,151.9 C191.26,179.57 150.77,210.74 123.14,231.99 " fill="none" id="Pizza-backto-PizzaFromageStyleBrest" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="223.24,146.13,243.36,139.48,231.78,157.22,223.24,146.13" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[4dbb9eacf07de513ae97742fe1805b67]
+reverse link Pizza to PizzaFromageStyleStrasbourg--><path codeLine="29" d="M307,192.25 C307,206.85 307,220.66 307,231.79 " fill="none" id="Pizza-backto-PizzaFromageStyleStrasbourg" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="300,192.04,307,172.04,314,192.04,300,192.04" style="stroke: #000000; stroke-width: 1.0;"/><!--MD5=[ff1a9e6b98ae47b796b028162f0cee35]
+reverse link Pizza to PizzaFromageStyleCorse--><path codeLine="33" d="M384.77,174.29 C409.06,200.46 433.31,226.59 447.98,242.4 " fill="none" id="Pizza-backto-PizzaFromageStyleCorse" style="stroke: #000000; stroke-width: 1.0;"/><polygon fill="none" points="379.41,178.81,370.94,159.39,389.68,169.29,379.41,178.81" style="stroke: #000000; stroke-width: 1.0;"/><text fill="#888888" font-family="sans-serif" font-size="10" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="285" x="99.25" y="307.623">Diagram generated using http://plantuml.sourceforge.net.</text><!--MD5=[62d69678e2177766b882f35f9bc6c776]
+@startuml
+
+'- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+' UML concepts illustrated
+' JMB 2014
+'- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+!include config.cfg
+
+abstract class Pizza {
+  ~String nom
+  ~String pate
+  ~String sauce
+  ~ArrayList garnitures
+  ~void preparer()
+  ~void cuire()
+  ~void couper()
+  ~void emballer()
+  +String getNom()
+}
+
+class PizzaFromageStyleBrest {
+  +PizzaFromageStyleBrest()
+}
+Pizza <|- - PizzaFromageStyleBrest
+
+class PizzaFromageStyleStrasbourg {
+  +PizzaFromageStyleStrasbourg()
+}
+Pizza <|- - PizzaFromageStyleStrasbourg
+
+class PizzaFromageStyleCorse as "..." {
+}
+Pizza <|- - PizzaFromageStyleCorse
+
+@enduml
+
+@startuml
+
+
+
+hide empty members
+hide empty methods
+
+footer <i>Diagram generated using http://plantuml.sourceforge.net.</i>
+
+skinparam classAttributeIconSize 0
+skinparam package {
+	BackgroundColor empty
+	BorderColor DarkSlateGray
+	ArrowColor Black
+	FontColor Black
+	FontSize 12
+	FontName Helvetica
+}
+skinparam roundcorner 10
+
+skinparam class {
+	BackgroundColor AliceBlue
+	BorderColor DarkSlateGray
+	ArrowColor Black
+	FontColor Black
+	FontSize 12
+	FontName Helvetica
+}
+skinparam arrow {
+    MessageAlign center
+}
+
+abstract class Pizza {
+  ~String nom
+  ~String pate
+  ~String sauce
+  ~ArrayList garnitures
+  ~void preparer()
+  ~void cuire()
+  ~void couper()
+  ~void emballer()
+  +String getNom()
+}
+
+class PizzaFromageStyleBrest {
+  +PizzaFromageStyleBrest()
+}
+Pizza <|- - PizzaFromageStyleBrest
+
+class PizzaFromageStyleStrasbourg {
+  +PizzaFromageStyleStrasbourg()
+}
+Pizza <|- - PizzaFromageStyleStrasbourg
+
+class PizzaFromageStyleCorse as "..." {
+}
+Pizza <|- - PizzaFromageStyleCorse
+
+@enduml
+
+PlantUML version 1.2020.18(Wed Sep 30 21:40:44 CEST 2020)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: fr
+Country: FR
+--></g></svg>
