@@ -1,16 +1,6 @@
 {
   "tests": [
     {
-      "name": "Fix0",
-      "setup": "",
-      "run": "mvn install",
-      "input": "",
-      "output": "",
-      "comparison": "included",
-      "timeout": 10,
-      "points": 10
-    },
-    {
       "name": "Maven tests",
       "setup": "",
       "run": "mvn test",
@@ -24,16 +14,6 @@
       "name": "Gradle tests",
       "setup": "",
       "run": "gradle test",
-      "input": "",
-      "output": "",
-      "comparison": "included",
-      "timeout": 10,
-      "points": 20
-    },
-    {
-      "name": "Model UML",
-      "setup": "",
-      "run": "mvn uml",
       "input": "",
       "output": "",
       "comparison": "included",
