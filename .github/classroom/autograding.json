@@ -25,8 +25,8 @@
       "setup": "mvn install",
       "run": "java -jar target/pizzeria.jar",
       "input": "",
-      "output": "Préparation de Pizza sauce style brest et fromage\r\nÉtalage de la pâte...\r\nAjout de la sauce...\r\nAjout des garnitures:\r\n Parmigiano reggiano râpé\r\nCuisson 25 minutes à 180 degrés\r\nDécoupage en parts triangulaires\r\nEmballage dans une boîte officielle\r\nJMB a commandé une Pizza sauce style brest et fromage\r\n\r\nPréparation de Pizza pâte style Strasbourg et fromage\r\nÉtalage de la pâte...\r\nAjout de la sauce...\r\nAjout des garnitures:\r\n Mozzarella en lamelles\r\nCuisson 25 minutes à 180 degrés\r\nDécoupage en parts carrées\r\nEmballage dans une boîte officielle\r\nJMI a commandé une Pizza pâte style Strasbourg et fromage",
-      "comparison": "exact",
+      "output": "Préparation de Pizza sauce style brest et fromage(\\r\\n|\\r|\\n)Étalage de la pâte...(\\r\\n|\\r|\\n)Ajout de la sauce...(\\r\\n|\\r|\\n)\r\nAjout des garnitures:(\\r\\n|\\r|\\n) Parmigiano reggiano râpé(\\r\\n|\\r|\\n)Cuisson 25 minutes à 180 degrés(\\r\\n|\\r|\\n)Découpage en parts triangulaires(\\r\\n|\\r|\\n)Emballage dans une boîte officielle(\\r\\n|\\r|\\n)JMB a commandé une Pizza sauce style brest et fromage(\\r\\n|\\r|\\n)(\\r\\n|\\r|\\n)Préparation de Pizza pâte style Strasbourg et fromage(\\r\\n|\\r|\\n)Étalage de la pâte...(\\r\\n|\\r|\\n)Ajout de la sauce...(\\r\\n|\\r|\\n)Ajout des garnitures:(\\r\\n|\\r|\\n) Mozzarella en lamelles(\\r\\n|\\r|\\n)Cuisson 25 minutes à 180 degrés(\\r\\n|\\r|\\n)Découpage en parts carrées\r\nEmballage dans une boîte officielle(\\r\\n|\\r|\\n)JMI a commandé une Pizza pâte style Strasbourg et fromage(\\r\\n|\\r|\\n)",
+      "comparison": "regex",
       "timeout": 10,
       "points": 20
     },
